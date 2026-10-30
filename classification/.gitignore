@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.npz
+*.json
+!metadata/*.json
+*.png
+*.pdf
+.venv/

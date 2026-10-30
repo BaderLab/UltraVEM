@@ -1,0 +1,48 @@
+# Core
+torch==2.7.1
+triton==3.3.1
+numpy<2.0
+scipy==1.14.1
+pillow==11.0.0
+
+# ML / training
+scikit-learn>=1.6
+scikit-image==0.24.0
+pandas==2.2.3
+seaborn==0.13.2
+einops==0.8.0
+pytorch-msssim==1.0.0
+lpips==0.1.4
+torchio==0.18.90
+lightning-bolts==0.4.0
+pytorch-lightning==2.4.0
+
+# Medical imaging
+SimpleITK==2.3.1
+nibabel==5.3.2
+dicom2nifti==2.6.2
+pynrrd==1.0.0
+pyradiomics==3.1.0
+tifffile==2024.9.20
+imagecodecs==2025.3.30
+
+# nnU-Net / nnssl stack
+acvl-utils==0.2
+batchgenerators==0.25.1
+
+# Utilities
+tqdm==4.67.1
+requests==2.32.3
+graphviz==0.20.3
+yacs==0.1.8
+fft-conv-pytorch==1.2.0
+deprecated==1.2.14
+loguru==0.7.2
+openpyxl==3.1.5
+wandb==0.18.7
+pytest==8.3.3
+
+# Clustering / dim reduction
+hdbscan==0.8.42
+umap-learn==0.5.11
+cupy==13.3.0

@@ -1,0 +1,4 @@
+dataset_id,organism,sample_type,tissue_fine,tissue_coarse,umap_fine,umap_coarse,modality,voxel_size_nm_xyz,aliases
+EXAMPLE_dataset-1,Mouse,Tissue,Brain (cortex),Brain,Mouse - Brain (cortex),Mouse - Brain,FIB-SEM,"4,4,4",
+EXAMPLE_dataset-2,Human,Cell line,Cell line (HeLa),Cell line,,,FIB-SEM,"8,8,8",exampleds2;example-dataset-2
+EXAMPLE_dataset-3,C. elegans,Tissue,Nervous system (VNC),Nervous system,,,ssTEM,"1,1,30",
